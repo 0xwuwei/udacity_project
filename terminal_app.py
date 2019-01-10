@@ -29,7 +29,7 @@ def get_filters():
           
                   
 
-    # TO DO: get user input for month (all, january, february, ... , june)
+    # TO DO: get user input for month (all, january, february, ... , june) consider expanding months in the future through december
     months = ['January', 'February', 'March', 'April', 'May', 'June']
     month = input('For which month would you like to see data? ').title()
         
