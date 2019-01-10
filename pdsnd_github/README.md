@@ -5,7 +5,7 @@ Created on 01/09/2019
 Udacity Programming for Data Science Final Python project (Pandas)
 
 ### Description
-This application lets you explore US bikeshare data
+This application lets you explore US bikeshare data using python in the terminal
 
 ### Files used
 washington.csv
