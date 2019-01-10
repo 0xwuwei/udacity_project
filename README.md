@@ -13,4 +13,4 @@ Files used
 washington.csv chicago (2).csv new_york_city.csv
 
 Credits
-https://stackoverflow.com/ https://www.udacity.com https://www.pandas.pydata.org
+https://stackoverflow.com/ https://www.udacity.com https://www.pandas.pydata.org https://www.nupy.org
