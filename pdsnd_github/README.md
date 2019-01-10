@@ -1,15 +1,17 @@
 ### Date created
-Include the date you created this project and README file.
+Created on 01/09/2019
 
 ### Project Title
-Replace the Project Title
+Udacity Programming for Data Science Final Python project (Pandas)
 
 ### Description
-Describe what your project is about and what it does
+This application lets you explore US bikeshare data
 
 ### Files used
-Include the files used
+washington.csv
+chicago (2).csv
+new_york_city.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+https://stackoverflow.com/
+https://www.udacity.com 
